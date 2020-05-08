@@ -35,7 +35,8 @@ sh embed_visualize.sh
 # TODO
 
 On my computer I get the following link: 
- * http://MBPdeMattGeorge:8080/ 
+ * http://MBPdeMattGeorge:8080/   
+ 
 Actually, the link that works to see the Tensorboard with the embeddings is:
 * localhost:8080/ 
 
